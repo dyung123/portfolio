@@ -13,6 +13,7 @@ $(document).ready(function(){
       }
 
       gnb.find('a').removeClass('act');
+      
 
       //방법1. 세로스크롤값을 각각 체크하여 수식작성
   //     if(sPos>=140 &&sPos<=1050){
